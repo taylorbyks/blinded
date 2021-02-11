@@ -1,3 +1,5 @@
+// Author: Taylor Byk Schinvelksi
+
 #include "Arduino.h"
 
 // Libs MP3
